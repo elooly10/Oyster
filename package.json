@@ -1,0 +1,24 @@
+{
+  "name": "Oyster Stater",
+  "version": "1.0.0",
+  "description": "WIFI",
+  "main": "Script.js",
+  "scripts": {
+    "start": "serve",
+    "build": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elooly-10"
+  },
+  "keywords": ["Oyster", "template", "codesandbox"],
+  "author": "Myles",
+  "license": "none",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "serve": "What"
+  }
+}
